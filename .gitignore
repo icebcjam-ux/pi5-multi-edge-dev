@@ -1,6 +1,4 @@
-server
-bot_agent
-*.o
+# 直接無視整個掛載目錄與動態日誌
 lcd/
 white/
 zero2w/

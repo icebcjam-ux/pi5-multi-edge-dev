@@ -1,0 +1,7 @@
+server
+bot_agent
+*.o
+lcd/
+white/
+zero2w/
+mount.log

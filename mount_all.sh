@@ -3,8 +3,8 @@
 # 定義遠端裝置資訊
 # 格式："地名|IP|遠端帳號|遠端路徑|本地掛載點"
 MOUNTS=(
-  "Lcd|192.168.1.121|lcd|/home/lcd/|/home/red/mount_all/lcd"
-  "Zero 2w|192.168.1.104|zero2w|/home/zero2w/|/home/red/mount_all/zero2w"
+  "Lcd|192.168.1.121|lcd|/home/lcd|/home/red/mount_all/lcd"
+  "Zero 2w|192.168.1.104|zero2w|/home/zero2w|/home/red/mount_all/zero2w"
   "White|192.168.1.116|white|/home/white|/home/red/mount_all/white"
 )
 
